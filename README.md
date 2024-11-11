@@ -51,3 +51,13 @@ Inicie o projeto com:
 ````cmd
 npx expo start
 ````
+
+## Imagens
+
+<div align="start">
+<img src="https://github.com/user-attachments/assets/2fef2a59-0a9d-47f5-bc0c-76926f1b5fca" height="400">
+<img src="https://github.com/user-attachments/assets/ec1dd36c-ceac-4ab7-b0b6-2db976a15bbd" height="400">
+<img src="https://github.com/user-attachments/assets/f68dadf9-a7fb-4727-a3e5-906917355590" height="400">
+<img src="https://github.com/user-attachments/assets/c284d15e-3f0b-41fa-a130-e89413c43d6c" height="400">
+
+<div>
