@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# Dieta Ai 📷
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<div align="center" >
+<img height="400" alt="Gif" src="https://github.com/user-attachments/assets/a90d8fac-fe6a-403c-906a-607ae786c1e9"/>
+</div>
 
-## Get started
+# Dieta Ai
 
-1. Install dependencies
+Dieta Ai é uma aplicação desenvolvida para criar uma dieta personalizada de acordo com as características do usuário  usando a inteligência artificial do Google
 
-   ```bash
-   npm install
-   ```
+## Tecnologias 🔨
 
-2. Start the app
+✔️ React Native
 
-   ```bash
-    npx expo start
-   ```
+✔️ TypeScript
 
-In the output, you'll find options to open the app in a
+✔️ Gemini Ai (inteligência artificial)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+✔️ NodeJs
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+✔️ Schema Validation
 
-## Get a fresh project
+## Instalação
 
-When you're ready, run:
+Abra o cmd e clone o backend com :
 
-```bash
-npm run reset-project
-```
+````cmd
+https://github.com/GuilhermeSilva75/Backend-Dieta.git
+````
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Entre na pasta do backend e instale as dependências:
 
-## Learn more
+````cmd
+yarn
+````
 
-To learn more about developing your project with Expo, look at the following resources:
+Clone o projeto com :
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+````cmd
+https://github.com/GuilhermeSilva75/Dieta-Ai.git
+````
 
-## Join the community
+Instale as dependências do projeto 
 
-Join our community of developers creating universal apps.
+````cmd
+yarn
+````
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Inicie o projeto com: 
+
+````cmd
+npx expo start
+````
