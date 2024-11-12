@@ -1,10 +1,10 @@
-# Dieta Ai 📷
+# Dieta IA 📷
 
 <div align="center" >
 <img height="400" alt="Gif" src="https://github.com/user-attachments/assets/a90d8fac-fe6a-403c-906a-607ae786c1e9"/>
 </div>
 
-# Dieta Ai
+# Dieta IA
 
 Dieta Ai é uma aplicação desenvolvida para criar uma dieta personalizada de acordo com as características do usuário  usando a inteligência artificial do Google
 
